@@ -20,7 +20,7 @@
 
 ```
 git clone https://github.com/D-plus/hardhat-nft
-cd hardhat-nft-fcc
+cd hardhat-nft
 yarn
 ```
 
